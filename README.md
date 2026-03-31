@@ -13,4 +13,6 @@ These were then adapted to specific use cases, and refined as prompts until suit
 
 To use your own music, simply place your own music in the areas folder with the title exactly matching the piece you want to replace.
 
+Restart Mmapper for the changes to take effect.
+
 Mmappeer will automatically loop in game and will cross fade between areas for you.
